@@ -9,7 +9,7 @@ namespace myfstprojectt
     class MaxUniqueSequnceFinder
     {
         char[] massiv;
-        public void enter(string[] args) //enter the string
+        public void enter(string[] args) //enter the string from command line
         {
             Console.Write("enter the string: ");
            
