@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Function carname = new Function();
-            Car carf = new Car();
+            Function carf = new Function();
             carname.carf();
         }
     }
